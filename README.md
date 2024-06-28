@@ -14,7 +14,14 @@ El proyecto está organizado en los siguientes archivos:
 - `DHT22.c`: Contiene las implementaciones de las funciones declaradas en `DHT22.h`.
 - `main.c`: Ejemplo de uso de la API para leer datos del sensor y enviarlos por UART.
 
+
+## Conexiones
+
+![DHT22](doc/img/DHT22.png)
+
 ## Estructuras
+
+
 
 ### `DHT22_Data`
 
